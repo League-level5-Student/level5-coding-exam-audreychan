@@ -1,4 +1,4 @@
-package Coding_Exam_B.classes;
+package Coding_Exam_B.classes; //camera
 
 public class Camera {
 	public float frameDistance;
